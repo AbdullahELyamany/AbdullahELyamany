@@ -3,7 +3,7 @@
 - 🌱 I’m currently *Python Developer*.
 - 💞️ I’m looking to collaborate on *development of the Python language*
 - 📫 How to reach me *You must never stop learning*
-https://www.postgresql.org/
+
 <!---
 AbdullahELyamany/AbdullahELyamany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
